@@ -1,0 +1,21 @@
+execute as @e[name=Astra,limit=1] run tellraw @a [
+    {"text":"L","color":"red","bold":true},
+    {"text":"e ","color":"gold","bold":true},
+    {"text":"d","color":"yellow","bold":true},
+    {"text":"a","color":"green","bold":true},
+    {"text":"t","color":"aqua","bold":true},
+    {"text":"a","color":"blue","bold":true},
+    {"text":"p","color":"dark_purple","bold":true},
+    {"text":"a","color":"light_purple","bold":true},
+    {"text":"c","color":"red","bold":true},
+    {"text":"k ","color":"gold","bold":true},
+    {"text":"e","color":"yellow","bold":true},
+    {"text":"s","color":"green","bold":true},
+    {"text":"t ","color":"aqua","bold":true},
+    {"text":"l","color":"blue","bold":true},
+    {"text":"o","color":"dark_purple","bold":true},
+    {"text":"a","color":"light_purple","bold":true},
+    {"text":"d","color":"red","bold":true},
+    {"text":"e","color":"gold","bold":true},
+    {"text":"d !","color":"yellow","bold":true}
+]
