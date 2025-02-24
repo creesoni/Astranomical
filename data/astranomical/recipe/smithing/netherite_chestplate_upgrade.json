@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": "minecraft:netherite_chestplate",
+    "addition": "minecraft:nether_star",
+    "template": [
+      "minecraft:netherite_block"
+    ],
+    "result": {
+      "id": "minecraft:netherite_chestplate",
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:fire_protection": 4,
+            "minecraft:projectile_protection": 4,
+            "minecraft:protection": 4,
+            "minecraft:blast_protection": 4
+          },
+          "show_in_tooltip": true
+        }
+      }
+    }
+  }
