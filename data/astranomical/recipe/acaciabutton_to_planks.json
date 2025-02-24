@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+      "111",
+      "111",
+      "111"
+    ],
+    "key": {
+      "1": [
+        "minecraft:acacia_button"
+      ]
+    },
+    "result": {
+      "id": "minecraft:acacia_planks"
+    }
+  }

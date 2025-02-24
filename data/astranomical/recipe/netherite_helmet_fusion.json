@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": "minecraft:netherite_helmet",
+    "addition": "minecraft:nether_star",
+    "result": {
+      "id": "minecraft:ancient_debris",
+      "count": 1
+    }
+  }
